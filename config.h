@@ -11,7 +11,7 @@ static char* urgfgcolor   = "#cc241d";
 static char before[]      = "<";
 static char after[]       = ">";
 static char titletrim[]   = "...";
-static int  tabwidth      = 100;
+static int  tabwidth      = 120;
 static const Bool foreground    = True;
 static       Bool urgentswitch  = False;
 
