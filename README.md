@@ -1,9 +1,11 @@
 # Tabbed
 
-## Applied patches:
+## Patched features:
 
+- Center tab title
+- Xresources support
 - Alpha, compatible with the latest st
-- Autohide (single tab)
+- Autohide (when there's a single tab)
 
 tabbed - generic tabbed interface
 =================================
