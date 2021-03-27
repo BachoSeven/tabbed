@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
-static char font[]        = "monospace:size=16";
+static char font[]        = "monospace:size=15";
 static char* normbgcolor  = "#458588";
 static char* normfgcolor  = "#ebdbb2";
 static char* selbgcolor   = "#282828";
